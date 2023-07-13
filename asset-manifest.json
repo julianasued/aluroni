@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aluroni/static/css/main.761f382f.css",
+    "main.js": "/aluroni/static/js/main.fc128369.js",
+    "index.html": "/aluroni/index.html",
+    "main.761f382f.css.map": "/aluroni/static/css/main.761f382f.css.map",
+    "main.fc128369.js.map": "/aluroni/static/js/main.fc128369.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.761f382f.css",
+    "static/js/main.fc128369.js"
+  ]
+}
